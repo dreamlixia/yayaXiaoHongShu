@@ -15,13 +15,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:extension.openXiaoHongShu"
+    "onCommand:extension.xxxx"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "extension.openXiaoHongShu",
+        "command": "extension.xxxx",
         "title": "Open XiaoHongShu"
       }
     ]

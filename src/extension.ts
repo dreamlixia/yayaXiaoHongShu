@@ -2,7 +2,7 @@ import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
   // 注册一个命令
-  let disposable = vscode.commands.registerCommand('extension.openXiaoHongShu', () => {
+  let disposable = vscode.commands.registerCommand('extension.xxxx', () => {
     const panel = vscode.window.createWebviewPanel(
       'xiaoHongShu', // 标识符
       '小红书', // 标题
